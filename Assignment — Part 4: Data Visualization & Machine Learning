@@ -1,0 +1,25 @@
+part4_visualization_ml.ipynb
+student-performance-project/
+│
+├── students.csv
+├── task1_data_exploration.py
+├── task2_plot1_bar.py
+├── task2_plot2_histogram.py
+├── task2_plot3_scatter.py
+├── task2_plot4_boxplot.py
+├── task2_plot5_line.py
+├── task3_seaborn_bar.py
+├── task3_seaborn_scatter.py
+├── task4_machine_learning.py
+│
+├── plot1_bar.png
+├── plot2_histogram.png
+├── plot3_scatter.png
+├── plot4_boxplot.png
+├── plot5_line.png
+├── seaborn_barplots.png
+├── seaborn_scatter.png
+├── feature_coefficients.png
+
+https://colab.research.google.com/drive/1tGxw_pYizmwBXQ_QfMrswD7rdber23XA?usp=sharing
+
